@@ -1,0 +1,3 @@
+rootProject.name='eximage'
+include ':app'
+include ':utility'
