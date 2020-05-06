@@ -9,7 +9,7 @@ repositories {
 }
 
 group = 'br.com.acessodigital.eximage'
-version = '1.0.6'
+version = '1.0.7'
 
 android {
     compileSdkVersion 28
@@ -33,8 +33,8 @@ android {
         abortOnError false
     }
     sourceSets {
-        main.java.srcDirs += 'src/main/kotlin'
-        androidTest.java.srcDirs += 'src/androidTest/kotlin'
+        main.java.srcDirs += 'src/main/java'
+        androidTest.java.srcDirs += 'src/androidTest/java'
         androidTest.resources.srcDirs += 'src/androidTest/res'
     }
 }
