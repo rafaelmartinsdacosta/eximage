@@ -9,7 +9,7 @@ repositories {
 }
 
 group = 'br.com.acessodigital.eximage'
-version = 'v1.0.4'
+version = '1.0.5'
 
 android {
     compileSdkVersion 29
